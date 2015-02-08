@@ -1,4 +1,4 @@
-(module RJ45_LEDs (layer F.Cu) (tedit 54D6C7EA)
+(module RJ45_LEDs (layer F.Cu) (tedit 54D6D95A)
   (tags RJ45)
   (fp_text reference RJ45_LEDs (at 3.57 -10.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2032)))
@@ -6,6 +6,7 @@
   (fp_text value VAL** (at 3.57 8.48 180) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )
+  (fp_line (start -5.05 -9.1) (end 12.2 -9.1) (layer F.SilkS) (width 0.05))
   (fp_line (start 12.2 -9.6) (end -5.05 -9.6) (layer F.SilkS) (width 0.05))
   (fp_line (start 9.05 7.1) (end 9.55 7.1) (layer F.SilkS) (width 0.05))
   (fp_line (start -0.1 7.1) (end 7.25 7.1) (layer F.SilkS) (width 0.05))
